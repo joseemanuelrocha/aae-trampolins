@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:c-natal-2026-beatriz-oliveira-er8m@aae-trampolins
-DTSTAMP:20261127T144313Z
+DTSTAMP:20261127T150348Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Festa de Natal AAE
@@ -24,7 +24,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c-terdmt-2027-beatriz-oliveira-er8m@aae-trampolins
-DTSTAMP:20261127T144313Z
+DTSTAMP:20261127T150348Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Territorial DMT Níveis
@@ -40,7 +40,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c-mwz09ojife01-beatriz-oliveira-er8m@aae-trampolins
-DTSTAMP:20261127T144313Z
+DTSTAMP:20261127T150348Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Reunião Encarregados de educação
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b-mwyj0v1a827s-beatriz-oliveira-er8m@aae-trampolins
-DTSTAMP:20261127T144313Z
+DTSTAMP:20261127T150348Z
 DTSTART:20261222T190000Z
 DTEND:20261222T210000Z
 SUMMARY:Outro · Festa de Natal AAE
@@ -74,13 +74,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b-mwz241jk9p4x-beatriz-oliveira-er8m@aae-trampolins
-DTSTAMP:20261127T144313Z
+DTSTAMP:20261127T150348Z
 DTSTART:20261201T194500Z
 DTEND:20261201T203000Z
 SUMMARY:Reunião · Reunião Encarregados de educação
 LOCATION:Sala de reuniões no piso superior do pavilhão da AAE
 DESCRIPTION:Reunião Encarregados de educação\nSala de reuniões no piso
-  superior do pavilhão da AAE\nHora de Portugal.
+  superior do pavilhão da AAE\nTópicos da Reunião:\n\nEquipa técnica\n
+ Regras de funcionamento\nCalendário Desportivo\nFesta de Natal\nEquip
+ amento\nRedes sociais\nOutros assuntos\nHora de Portugal.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reunião às 19:45
