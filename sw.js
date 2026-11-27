@@ -1,4 +1,4 @@
-var C='aae-trampolins-v2';
+var C='aae-trampolins-v3';
 self.addEventListener('activate',function(e){e.waitUntil(caches.keys().then(function(k){return Promise.all(k.filter(function(x){return x!==C}).map(function(x){return caches.delete(x)}))}))});
 self.addEventListener('install',function(e){self.skipWaiting();e.waitUntil(caches.open(C).then(function(c){return c.addAll(['./','./index.html','./data/state.json'])}).catch(function(){}))});
 self.addEventListener('activate',function(e){e.waitUntil(self.clients.claim())});
